@@ -70,7 +70,7 @@
             <dependency>
             	<groupId>javax.faces</groupId>
             	<artifactId>jsf-api</artifactId>
-            	<version>1.1_02</version>
+            	<version>1.2_04-p02</version>
             </dependency>
             <dependency>
             	<groupId>javax.faces</groupId>
