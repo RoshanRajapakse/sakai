@@ -22,7 +22,7 @@
 		<!-- Default extra plugins enabled -->
 		<ckeditor-extra-plugins>sakaipreview,sakaidropdowntoolbar,sakaiopenlink,</ckeditor-extra-plugins>
 		<!-- Empty defaults for a11y-->
-		<ckeditor-a11y-extra-plugins></ckeditor-a11y-extra-plugins>
+		<ckeditor-a11y-extra-plugins/>
 		<sakai.skin.source>default</sakai.skin.source>
 		<sakai.skin.target>default-skin</sakai.skin.target>
 		<sakai.skin.customization.file>src/skins/${sakai.skin.source}/src/sass/examples/_empty.scss</sakai.skin.customization.file>
@@ -290,7 +290,7 @@
 		<dependency>
 			<groupId>org.webjars.npm</groupId>
 			<artifactId>video.js</artifactId>
-			<version>7.14.0</version>
+			<version>7.15.6</version>
 		</dependency>
 		<!--Used in Tests&Quizzes, validation of fill in numeric questions -->
 		<dependency>
